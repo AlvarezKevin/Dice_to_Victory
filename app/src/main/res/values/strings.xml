@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="action_settings">Settings</string>
+    <string name="finish_turn">Finish Turn</string>
+    <string name="player_2_deafult">Player 2: 0</string>
+    <string name="player_1_default">Player 1: 0</string>
+    <string name="current_turn_score_default">Current Turn Score: 0</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="reset_game">Reset Game</string>
+</resources>
